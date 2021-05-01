@@ -1,0 +1,58 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.e-calendar,
+.e-bigger.e-small .e-calendar {
+  background-color: #18222d;
+}
+
+.e-calendar,
+.e-bigger.e-small .e-calendar {
+  color: white;
+}
+
+.e-calendar .e-header .e-title,
+.e-bigger.e-small .e-calendar .e-header .e-title {
+  color: white;
+}
+
+.e-calendar .e-date-icon-prev,
+.e-calendar .e-date-icon-next,
+.e-bigger.e-small .e-calendar .e-date-icon-prev,
+.e-bigger.e-small .e-calendar .e-date-icon-next {
+  color: white;
+}
+
+.e-calendar th,
+.e-bigger.e-small .e-calendar th {
+  color: white;
+}
+.e-btn.e-flat.e-primary,
+.e-css.e-btn.e-flat.e-primary {
+  color: white;
+}
+
+.e-calendar .e-content span,
+.e-bigger.e-small .e-calendar .e-content span {
+  color: white;
+}
+
+.e-calendar .e-content td.e-selected span.e-day,
+.e-bigger.e-small .e-calendar .e-content td.e-selected span.e-day {
+  background-color: green;
+}
+
+.e-calendar .e-content td.e-today span.e-day,
+.e-calendar .e-content td.e-focused-date.e-today span.e-day,
+.e-bigger.e-small .e-calendar .e-content td.e-today span.e-day,
+.e-bigger.e-small .e-calendar .e-content td.e-focused-date.e-today span.e-day {
+  border: 1px solid green;
+}
+
+.e-calendar,
+.e-bigger.e-small .e-calendar {
+  position: relative;
+  top: 60px;
+  max-width: 500px;
+  min-width: 400px;
+  height: auto;
+}

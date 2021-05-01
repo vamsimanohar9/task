@@ -1,0 +1,335 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap");
+
+.spaceingspace {
+  border: 60px solid #18222d;
+}
+
+.middlepart {
+  position: relative;
+  top: 50px;
+}
+#checkicon {
+  color: #25d96d;
+  font-size: 50px;
+  position: relative;
+  left: 35%;
+  top: 30px;
+}
+#month {
+  color: white;
+  font-family: "Nunito", sans-serif;
+  font-size: 25px;
+}
+#rightfloat {
+  position: relative;
+  float: right;
+}
+
+.client1 {
+  color: white;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+.laptop5 {
+  color: #25d96d;
+  font-size: 25px;
+  position: relative;
+  top: 7px;
+}
+.imageout8 {
+  padding-top: 18px;
+  width: 60px;
+  float: left;
+}
+
+#bottomnav {
+  position: relative;
+  height: 300px;
+}
+.line-background {
+  border: 0.25px solid #babdc0;
+}
+
+#lineone {
+  border: none;
+  background: red;
+  height: 1px;
+  position: relative;
+  top: 100px;
+}
+.headlogo {
+  position: relative;
+  left: 85px;
+}
+.card-title6 {
+  color: white;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 25px;
+}
+#text5 {
+  font-size: 18px;
+  position: relative;
+}
+.client {
+  color: white;
+  padding-left: 10px;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+}
+.laptop {
+  color: #25d96d;
+  font-size: 25px;
+  position: relative;
+  top: 5px;
+}
+.FaServer {
+  color: #25d96d;
+  font-size: 25px;
+  position: relative;
+  top: 5px;
+}
+
+.backgrounds {
+  background-color: #18222d;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.fullbg {
+  background-color: #18222d;
+}
+
+.imageout {
+  padding-top: 5px;
+  width: 80px;
+  float: left;
+}
+.card-title {
+  font-family: "Nunito", sans-serif;
+  font-size: 25px;
+}
+.textang {
+  position: relative;
+  top: 12px;
+  color: white;
+  float: right;
+  text-align: left;
+  padding-right: 50px;
+  line-height: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  -user-select: none;
+}
+
+.textang .card-text {
+  position: relative;
+  top: 3px;
+}
+
+#green-point {
+  color: green;
+  font-size: 40px;
+}
+
+.textang2 {
+  position: relative;
+  top: 7px;
+  color: white;
+  float: right;
+  text-align: left;
+  padding-right: 50px;
+  line-height: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  -user-select: none;
+}
+.textang2.card-text {
+  position: relative;
+  top: 10px;
+}
+
+.textang3 {
+  position: relative;
+  top: 7px;
+  color: white;
+  float: right;
+  text-align: left;
+  padding-right: 5px;
+  line-height: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  -user-select: none;
+}
+.textang3.card-text {
+  position: relative;
+  top: 10px;
+}
+
+@media all and (max-width: 1280px) {
+  .backgrounds {
+    background-color: #18222d;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .imageout {
+    padding-top: 15px;
+    width: 70px;
+    float: left;
+  }
+  .textang {
+    position: relative;
+    top: 12px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 30px;
+    line-height: 3px;
+  }
+  .textang2 {
+    position: relative;
+    top: 7px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 30px;
+    line-height: 3px;
+  }
+  .textang3 {
+    position: relative;
+    top: 14px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 0;
+    line-height: 3px;
+  }
+  #card3 {
+    position: relative;
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .imageout {
+    padding-top: 30px;
+    width: 50px;
+    float: left;
+  }
+  .textang {
+    position: relative;
+    top: 12px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 30px;
+    line-height: 3px;
+  }
+  .textang2 {
+    position: relative;
+    top: 7px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 30px;
+    line-height: 3px;
+  }
+  .textang3 {
+    position: relative;
+    top: 14px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 0;
+    line-height: 3px;
+  }
+  #card3 {
+    position: relative;
+    font-size: 22px;
+  }
+}
+@media all and (max-width: 360px) {
+  .imageout {
+    padding-top: 30px;
+    width: 50px;
+    float: left;
+  }
+
+  .textang {
+    position: relative;
+    top: 12px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 10px;
+    line-height: 3px;
+  }
+
+  .textang2 {
+    position: relative;
+    top: 7px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 10px;
+    line-height: 3px;
+  }
+  .textang3 {
+    position: relative;
+    top: 14px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 0;
+    line-height: 3px;
+  }
+  #card3 {
+    position: relative;
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 1510px) {
+  .imageout {
+    padding-top: 30px;
+    width: 50px;
+    float: left;
+  }
+
+  .textang {
+    position: relative;
+    top: 12px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 10px;
+    line-height: 3px;
+  }
+
+  .textang2 {
+    position: relative;
+    top: 7px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 10px;
+    line-height: 3px;
+  }
+  .textang3 {
+    position: relative;
+    top: 14px;
+    color: white;
+    float: right;
+    text-align: left;
+    padding-right: 0;
+    line-height: 3px;
+  }
+  #card3 {
+    position: relative;
+    font-size: 22px;
+  }
+}
